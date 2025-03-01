@@ -1,5 +1,5 @@
 # 사다조 Sadajo
-
+https://www.notion.so/Team-Project-Template-1a390b065cb980f3b383ce52617c44c4
 ## 📱 프로젝트 소개
 ### 기획 의도
 - 일본 여행객과 구매 요청자를 연결하는 크로스보더 중개 플랫폼
