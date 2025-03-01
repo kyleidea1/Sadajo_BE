@@ -1,5 +1,5 @@
 # 사다조 Sadajo
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=<https://www.notion.so/Team-Project-Template-1a390b065cb980f3b383ce52617c44c4>
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/Team-Project-Template-1a390b065cb980f3b383ce52617c44c4
 )
 
 <https://www.notion.so/Team-Project-Template-1a390b065cb980f3b383ce52617c44c4>
