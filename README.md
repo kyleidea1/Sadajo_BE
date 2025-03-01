@@ -1,4 +1,6 @@
 # 사다조 Sadajo
+<img src="https://img.shields.io/badge/notion-#000000?style=for-the-badge&logo=Spring&logoColor=white">
+
 <https://www.notion.so/Team-Project-Template-1a390b065cb980f3b383ce52617c44c4>
 ## 📱 프로젝트 소개
 ### 기획 의도
