@@ -1,5 +1,6 @@
 # 사다조 Sadajo
-<img src="https://img.shields.io/badge/-notion-#000000?style=for-the-badge&logo=notion&logoColor=white">
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=<https://www.notion.so/Team-Project-Template-1a390b065cb980f3b383ce52617c44c4>
+)
 
 <https://www.notion.so/Team-Project-Template-1a390b065cb980f3b383ce52617c44c4>
 ## 📱 프로젝트 소개
